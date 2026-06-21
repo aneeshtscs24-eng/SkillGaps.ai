@@ -1,0 +1,36 @@
+# SkillGaps.AI – Python Dependencies  (v2)
+# ==========================================
+# Install with:  pip install -r requirements.txt
+#
+# Tested on Python 3.10 / 3.11 / 3.12 (CPU-only).
+# GPU support: replace torch with torch+cu118 via PyTorch index.
+
+# ── Core ML & NLP ──────────────────────────────────────────────────────────
+sentence-transformers>=2.7.0   # HuggingFace sentence embeddings (MiniLM etc.)
+scikit-learn>=1.4.0            # cosine_similarity, metrics
+torch>=2.2.0                   # sentence-transformers backend (CPU build)
+transformers>=4.40.0           # HuggingFace model hub
+
+# ── Fairness ────────────────────────────────────────────────────────────────
+fairlearn>=0.10.0              # Demographic parity metrics (conceptual import;
+                               # parity logic is self-contained in models.py)
+
+# ── XAI ─────────────────────────────────────────────────────────────────────
+shap>=0.45.0                   # SHAP explainability (upgrade path for XAIExplainer)
+
+# ── Database (NEW in v2) ─────────────────────────────────────────────────────
+sqlalchemy>=2.0.0              # ORM + Core; v2.x API used throughout db.py
+pymysql>=1.1.0                 # Pure-Python MySQL driver (mysql+pymysql:// URL)
+cryptography>=42.0.0           # Required by PyMySQL for caching_sha2_password
+                               # (default auth plugin in MySQL 8+)
+
+# ── Data ─────────────────────────────────────────────────────────────────────
+pandas>=2.2.0
+numpy>=1.26.0
+
+# ── Utilities ────────────────────────────────────────────────────────────────
+tqdm>=4.66.0                   # Progress bars (used by sentence-transformers)
+python-dotenv>=1.0.0           # Optional: load .env file for DB credentials
+                               # Usage: from dotenv import load_dotenv; load_dotenv()
+streamlit>=1.35.0
+plotly>=5.20.0

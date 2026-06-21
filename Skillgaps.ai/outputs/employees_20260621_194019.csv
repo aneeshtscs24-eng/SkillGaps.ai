@@ -1,0 +1,51 @@
+employee_id,full_name,department,role,gender,age,years_exp,skills_current,risk_score
+1,Grace Brown,Engineering,Tech Lead,Female,42,20,"Airflow, Apache Spark, Business Intelligence, Data Visualisation, ETL Pipelines, Kafka, MS Office, NumPy, Pandas, Process Mapping, Scikit-learn, Tableau",0.643
+2,Daniel Rao,IT Operations,Cloud Architect,Male,28,5,"Microservices, System Design, Text Classification, spaCy",0.467
+3,Suresh Verma,Engineering,Senior Developer,Male,49,9,"JavaScript, Microservices, Reporting, Requirements Gathering, Sentiment Analysis, Transformers",0.183
+4,Lucas Joshi,Research & Development,NLP Engineer,Male,49,12,"C++, Data Visualisation, Git, Java, JavaScript, NumPy, Pandas, Scikit-learn",0.26
+5,Carlos Chen,Business Analysis,Scrum Master,Male,40,18,"Data Visualisation, LLMs, NLP, NLTK, NumPy, Scikit-learn, TensorFlow, Text Classification",0.58
+6,Arjun Joshi,Research & Development,Research Scientist,Male,56,30,"Apache Spark, ETL Pipelines, LLMs, MS Office, NLP, Process Mapping, SQL, Stakeholder Management, Tableau, Text Classification, dbt, spaCy",0.203
+7,Anand Verma,Engineering,Software Engineer,Male,29,1,"Data Warehousing, Hadoop, LLMs, MySQL, NLTK, Named Entity Recognition, PostgreSQL, spaCy",0.516
+8,Pradeep Mehta,Business Analysis,Scrum Master,Male,47,15,"Jupyter Notebooks, LLMs, Prompt Engineering, SQL, Scikit-learn, dbt",0.6
+9,Arjun Patel,Engineering,Software Engineer,Male,28,1,"CI/CD, Docker, Hadoop, Kafka, Linux, Monitoring, PostgreSQL, dbt",0.58
+10,Ethan Williams,Data & Analytics,Data Analyst,Male,30,7,"Business Intelligence, Feature Engineering, NLP, Named Entity Recognition, Pandas, Reporting, Requirements Gathering, Scikit-learn, Text Classification",0.327
+11,Divya Williams,Data & Analytics,Data Scientist,Female,53,8,"Excel, MS Office, NumPy, Pandas, Reporting, Scikit-learn",0.637
+12,Wei Garcia,Business Analysis,Business Analyst,Male,49,2,"CI/CD, JavaScript, Kubernetes, Linux, Microservices, REST APIs",0.232
+13,Gaurav Sharma,Research & Development,AI Researcher,Male,58,2,"Java, JavaScript, MS Office, Reporting",0.524
+14,Sunita Patel,Data & Analytics,Data Analyst,Female,28,6,"ETL Pipelines, MS Office, MySQL, Power BI, PyTorch, TensorFlow",0.631
+15,Jordan Smith,Data & Analytics,Data Scientist,Non-binary,49,5,"Azure, Bash Scripting, Feature Engineering, Linux, Power BI, Process Mapping, Scikit-learn, Tableau, TensorFlow",0.536
+16,Naveen Johnson,IT Operations,Systems Administrator,Male,52,27,"BERT, Feature Engineering, Jupyter Notebooks, LLMs, NLTK, NumPy, Power BI, Process Mapping, Reporting, Sentiment Analysis, Stakeholder Management, TensorFlow",0.422
+17,Rekha Rao,IT Operations,Systems Administrator,Female,40,17,"Git, Java, NLP, NLTK",0.444
+18,Sanjay Joshi,Data & Analytics,ML Engineer,Male,52,18,"Feature Engineering, MySQL, Python, dbt",0.503
+19,Divya Williams,Data & Analytics,Data Analyst,Female,43,12,"Apache Spark, ETL Pipelines, Prompt Engineering, Transformers, dbt, spaCy",0.649
+20,Aisha Nair,Data & Analytics,Data Scientist,Female,25,1,"BERT, Docker, Kafka, Linux, Named Entity Recognition, PostgreSQL, SQL, Terraform, Transformers",0.568
+21,Pooja Verma,Data & Analytics,Data Analyst,Female,36,7,"Bash Scripting, CI/CD, Excel, Power BI, Stakeholder Management, Terraform",0.364
+22,Nikhil Kim,IT Operations,Systems Administrator,Male,30,7,"Feature Engineering, JIRA, Jupyter Notebooks, NLP, Named Entity Recognition, Prompt Engineering, Requirements Gathering, Scikit-learn, Stakeholder Management",0.323
+23,James Williams,Engineering,Tech Lead,Male,45,20,"CI/CD, Docker, Kubernetes, Power BI, Reporting, Stakeholder Management, Tableau, Terraform",0.307
+24,Wei Brown,Data & Analytics,ML Engineer,Male,43,13,"CI/CD, Data Warehousing, Kafka, Linux, PostgreSQL, Terraform",0.424
+25,Noah Garcia,Data & Analytics,ML Engineer,Male,29,3,"AWS, Hadoop, Kafka, Monitoring, Sentiment Analysis, spaCy",0.408
+26,Rekha Patel,Business Analysis,Product Manager,Female,36,12,"Apache Spark, ETL Pipelines, Feature Engineering, Kafka, LLMs, Python, Scikit-learn, Sentiment Analysis, Transformers",0.548
+27,Grace Singh,Business Analysis,Business Analyst,Female,53,22,"Business Intelligence, Microservices, NLTK, Prompt Engineering, REST APIs, Reporting, Sentiment Analysis, Tableau, Unit Testing",0.466
+28,Naveen Joshi,Business Analysis,Business Analyst,Male,42,8,"Apache Spark, Business Intelligence, Data Visualisation, Data Warehousing, ETL Pipelines, Kafka, NumPy, Process Mapping, PyTorch, Reporting, Requirements Gathering, Scikit-learn",0.286
+29,Suresh Rao,Business Analysis,Product Manager,Male,25,3,"Bash Scripting, CI/CD, Docker, Microservices, REST APIs, Unit Testing",0.34
+30,Meera Garcia,Engineering,Senior Developer,Female,45,22,"BERT, C++, Data Warehousing, Git, Java, Kafka, MySQL, Named Entity Recognition, Node.js, SQL, Sentiment Analysis, Transformers",0.54
+31,Suresh Joshi,Business Analysis,Product Manager,Male,37,8,"Azure, Docker, Java, Jupyter Notebooks, Python, Scikit-learn, System Design, Terraform, Unit Testing",0.313
+32,Sneha Kumar,Research & Development,Research Scientist,Female,39,5,"Airflow, C++, Data Warehousing, Hadoop, JavaScript, Node.js, Unit Testing, dbt",0.437
+33,Kiran Kim,Engineering,Senior Developer,Male,48,13,"Apache Spark, Data Warehousing, Power BI, Stakeholder Management",0.621
+34,Vikram Johnson,Research & Development,NLP Engineer,Male,47,3,"Agile, Data Visualisation, Git, NumPy, Sentiment Analysis, Transformers",0.403
+35,Emily Martinez,IT Operations,Cloud Architect,Female,58,25,"BERT, CI/CD, Docker, GCP, Linux, MS Office, NLP, Power BI, Requirements Gathering, Sentiment Analysis, Stakeholder Management, Text Classification",0.442
+36,Lakshmi Rao,IT Operations,DevOps Engineer,Female,45,9,"Business Intelligence, Data Visualisation, Data Warehousing, Feature Engineering, MySQL, Pandas, PostgreSQL, Process Mapping, Reporting, Requirements Gathering, SQL, Scikit-learn",0.64
+37,Pranav Verma,Business Analysis,Scrum Master,Male,39,10,"Docker, JIRA, Kubernetes, Monitoring, NLTK, Process Mapping, Reporting, Sentiment Analysis, Text Classification",0.482
+38,Manoj Rao,IT Operations,Systems Administrator,Male,58,25,"LLMs, Microservices, NLTK, Node.js",0.495
+39,Kiran Rao,IT Operations,Systems Administrator,Male,47,6,"BERT, Feature Engineering, NLP, NumPy, Sentiment Analysis, TensorFlow",0.301
+40,Pranav Garcia,Business Analysis,Product Manager,Male,45,6,"C++, NLTK, Node.js, Pandas, Prompt Engineering, Python, REST APIs, Statistics, Transformers",0.633
+41,Wei Chen,Research & Development,AI Researcher,Male,38,13,"Azure, Docker, Excel, GCP, MS Office, Microservices, Node.js, Power BI, REST APIs",0.375
+42,Nikhil Lee,Engineering,Software Engineer,Male,24,2,"Airflow, Azure, CI/CD, Data Warehousing, Docker, Kafka, Pandas, Statistics, TensorFlow",0.375
+43,Deepak Joshi,Data & Analytics,Data Analyst,Male,27,2,"C++, CI/CD, Data Visualisation, Java, Kubernetes, Statistics, TensorFlow, Terraform, Unit Testing",0.546
+44,Rohan Patel,Data & Analytics,ML Engineer,Male,25,3,"JIRA, Microservices, Tableau, Unit Testing",0.561
+45,Sara Garcia,Engineering,Senior Developer,Female,46,14,"Agile, Kubernetes, Linux, System Design",0.367
+46,Vikram Jones,Engineering,Senior Developer,Male,40,11,"Business Intelligence, Data Visualisation, JIRA, Java, Microservices, Process Mapping, Python, REST APIs, Reporting, Scikit-learn, TensorFlow, Unit Testing",0.208
+47,Sanjay Mehta,Business Analysis,Scrum Master,Male,55,4,"AWS, Azure, Data Warehousing, Docker, ETL Pipelines, Linux, MySQL, SQL",0.164
+48,Deepak Garcia,IT Operations,Cloud Architect,Male,41,14,"Agile, Apache Spark, Hadoop, MS Office, REST APIs, Reporting",0.567
+49,Vivek Williams,IT Operations,Cloud Architect,Male,41,1,"Agile, Airflow, Business Intelligence, Git, Kafka, MS Office, MySQL, REST APIs, Reporting, System Design, Tableau, dbt",0.291
+50,Carlos Verma,Business Analysis,Business Analyst,Male,44,16,"Apache Spark, Data Warehousing, Java, NLP, PostgreSQL, System Design, Text Classification, Transformers, Unit Testing",0.503
